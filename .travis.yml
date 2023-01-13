@@ -16,7 +16,7 @@ deploy:
     # Skip cleanup so api_key.py and vendored dependencies are still there
     skip_cleanup: true
     keyfile: devopsenero2023-f0c8e5935824.json
-    project: devopsene23
+    project: devopsenero2023
     version: service-demo
     default: true
     on:
